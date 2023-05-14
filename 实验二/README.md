@@ -71,6 +71,7 @@
 左上方文本行提示中间文本随机数范围
 中间文本用于显示随机数
 最下方按钮命名为previous用于回到第一个页面
+
     <?xml version="1.0" encoding="utf-8"?>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -124,7 +125,8 @@
 ##设置代码自动补全
 点击File>Settings>查找Auto Import选项，在Java和Kotlin部分，勾选Add Unambiguous Imports on the fly
 
-![](./image/1.png)
+![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C/image/1.png)
+
 
 在onViewCreated方法中添加命令
 TOAST按钮添加一个toast消息
@@ -144,7 +146,7 @@ TOAST按钮添加一个toast消息
         myToast.show()
     }
 运行效果：
-![](./image/2.png)
+![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C/image/2.png)
 
 使Count按钮更新屏幕的数字
 
@@ -170,7 +172,7 @@ TOAST按钮添加一个toast消息
     }
 
 运行效果：
-![](./image/3.png)
+![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C/image/3.png)
 
 ##启用SafeArgs
 Gradle（Project），在plugins节添加
@@ -184,7 +186,7 @@ Gradle（module）在plugins节添加
     id 'androidx.navigation.safeargs'
 
 修改java版本java8->java11
-![](./image/4.png)
+![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C/image/4.png)
 
 
 navigation文件夹->nav_graph.xml->点击design
@@ -194,7 +196,7 @@ navigation文件夹->nav_graph.xml->点击design
 点击Arguments **+**符号
 弹出的对话框中，添加参数myArg，类型为整型Integer
 
-![](./image/5.png)
+![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C/image/5.png)
 FirstFragment添加代码，向SecondFragment发数据
 删掉onViewCreated()方法中原先的事件处理代码，
 获取TextView中文本并转化为整数值
@@ -276,4 +278,4 @@ onViewCreated()函数外之前添加代码
         }
     }
 运行效果：
-![](./image/6.png)
+![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C/image/6.png)
