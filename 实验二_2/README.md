@@ -443,12 +443,18 @@ startCamera函数中，preview 之后添加
     // Bind use cases to camera
     cameraProvider.bindToLifecycle(this, cameraSelector, preview, videoCapture)
 运行效果：
+
 拍照
+
 ![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C_2/image/1.png)
+
 ![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C_2/image/2.png)
+
 
 拍摄
 
+
 ![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C_2/image/3.png)
+
 ![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C_2/image/4.png)
 
