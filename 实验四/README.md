@@ -6,9 +6,11 @@
 ![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E5%9B%9B/image/1.png)
 
 在gradle.start中添加 TensorFlow Lite Model
+
 ![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E5%9B%9B/image/2.png)
 
 检查代码中的TODO项
+
 ![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E5%9B%9B/image/3.png)
 
 添加依赖以及逻辑处理代码
