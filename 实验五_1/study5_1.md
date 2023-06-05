@@ -152,3 +152,5 @@ model.export(export_dir='.')
 ```
 
 训练完毕保存的模型
+
+![](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_1/image/1.jpg)
