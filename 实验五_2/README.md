@@ -76,37 +76,37 @@ for i, img_path in enumerate(next_rock+next_paper+next_scissors):
 
 
     
-![png](output_2_0.png)
+![png](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_2/image/output_2_0.png)
     
 
 
 
     
-![png](output_2_1.png)
+![png](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_2/image/output_2_1.png)
     
 
 
 
     
-![png](output_2_2.png)
+![png](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_2/image/output_2_2.png)
     
 
 
 
     
-![png](output_2_3.png)
+![png](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_2/image/output_2_3.png)
     
 
 
 
     
-![png](output_2_4.png)
+![png](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_2/image/output_2_4.png)
     
 
 
 
     
-![png](output_2_5.png)
+![png](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_2/image/output_2_5.png)
     
 
 
@@ -308,7 +308,7 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![png](https://github.com/52hertzhz/Android-studio/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%94_2/image/output_4_0.png)
     
 
 
